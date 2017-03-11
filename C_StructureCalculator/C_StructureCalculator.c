@@ -6,7 +6,7 @@
 
 int main()
 {
-	while (true)
+	while (1)
 	{
 		printf("Input the number to find probably structures: ");
 		unsigned int number;
